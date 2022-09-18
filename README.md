@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Nizami Programming Language**
 
-- 🌱 I’m currently learning **Arduino / C++**
+- 🌱 I’m currently learning *Arduino**
 
-- 💬 Ask me about **Python,C,Ruby**
+- 💬 Ask me about **Python,C,Ruby,C++**
 
 - 📫 How to reach me **https://www.instagram.com/meinsoftx/**
 
