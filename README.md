@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/meinsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meinsoft" height="30" width="40" /></a>
+<a href="https://instagram.com/meinsoftx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meinsoftx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCipDDJj1idVwX_wDXeFN6gQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://bit.ly/3zkrmor" height="30" width="40" /></a>
 </p>
 
