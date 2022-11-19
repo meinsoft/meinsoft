@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meinsoft&label=Profile%20views&color=0e75b6&style=flat" alt="meinsoft" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinsoft" alt="meinsoft" /></a> </p>
-
 - 🔭 I’m currently working on **Nizami Programming Language**
 
-- 🌱 I’m currently learning *Arduino**
+- 🌱 I’m currently learning **Arduino**
 
 - 💬 Ask me about **Python,C,Ruby,C++**
 
