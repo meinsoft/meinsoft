@@ -15,7 +15,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]([linkedin-link](https://www.linkedin.com/in/muhammedali-aliyev-310545234/))
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/meinarchi)
-[<img align="left" alt="Instagram" width="22px" src="instagram.png" />](https://www.instagram.com/meinsoftx/)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/meinsoftx/)
 
 <!-- Dil və Alətlər -->
 <h3 align="left">Dil və Alətlər:</h3>
