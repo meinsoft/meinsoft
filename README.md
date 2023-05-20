@@ -2,7 +2,7 @@
 # Salam, Mən Muhammədəli Əliyev! 👋
 
 <!-- Təqdimat -->
-16 yaşında bir Mekatronika və Competetive Programming ilə məşğulam. Python, C++ və C dillərində işləyirəm.
+16 yaşım var Mekatronika və Competetive Programming ilə məşğulam. Python, C++ və C dillərində işləyirəm.
 
 <!-- Layihələr -->
 ## Layihələr
@@ -20,11 +20,11 @@
 <!-- Dil və Alətlər -->
 ## Dil və Alətlər
 
-![Python](python.png)
-![C++](cpp.png)
-![C](c.png)
-![Arduino](arduino.png)
-![Raspberry Pi](raspberry-pi.png)
+![Python]
+![C++]
+![C]
+![Arduino]
+![Raspberry Pi]
 
 <!-- GitHub Statistikaları -->
 ## GitHub Statistikaları
