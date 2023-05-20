@@ -1,34 +1,39 @@
-M.E.I.N
-Robotics,Electronics,Software engineer
+<!-- Başlıq -->
+# Salam, Mən Muhammədəli Əliyev! 👋
 
-Skills:
+<!-- Təqdimat -->
+16 yaşında bir Mekatronika və Competetive Programming ilə məşğulam. Python, C++ və C dillərində işləyirəm.
 
-Arduino,Esp32,RasberryPI Programming
+<!-- Layihələr -->
+## Layihələr
 
-advanced : Python,Unityc#,C#forms
+- [NizamiPL](link): Data Science lahiyələri eləmək üçün yerli programlaşdırma dili.
+- [Zəlzələ və Fay Xəritəsi](link): Anlıq Zəlzələri xəritə üzərində göstərən lahiyə.
 
-intermediate : C,C++
+<!-- Sosial Media -->
+## Sosial Media
 
-Projects:
+[<img align="left" alt="LinkedIn" width="22px" src="linkedin.png" />]([linkedin-link](https://www.linkedin.com/in/muhammedali-aliyev-310545234/))
+[<img align="left" alt="Twitter" width="22px" src="twitter.png" />](https://twitter.com/meinarchi)
+[<img align="left" alt="Instagram" width="22px" src="instagram.png" />](https://www.instagram.com/meinsoftx/)
 
-Nizami
+<!-- Dil və Alətlər -->
+## Dil və Alətlər
 
-hs8.2km
+![Python](python.png)
+![C++](cpp.png)
+![C](c.png)
+![Arduino](arduino.png)
+![Raspberry Pi](raspberry-pi.png)
 
-Ssharp
+<!-- GitHub Statistikaları -->
+## GitHub Statistikaları
 
-ParamDumper
+[![Muhammədəli Əliyev'in GitHub Statistikaları](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
 
-goals:
+<!-- Ziyarətçi Sayacı -->
+## Ziyarətçi Sayacı
 
-WRO2023 : gold medal
+![Ziyarətçi Sayısı](https://profile-counter.glitch.me/your-github-username/count.svg)
 
-SAF2023 : gold medal
 
-SahibkarMektebli2023 : gold,silver medal
-
-any robosumo competition 2023,2024 : gold,silver medal
-
-RFO2024 : bronze medal
-
-SabahinAlimleri2024 : gold or silver medal
