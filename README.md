@@ -24,7 +24,7 @@
 <!-- GitHub Statistikaları -->
 ## GitHub Statistikaları
 
-[![Muhammədəli Əliyev'in GitHub Statistikaları](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/meinsoft)
+[![Muhammədəli Əliyev'in GitHub Statistikaları](https://github-readme-stats.vercel.app/api?username=meinsoft&show_icons=true&theme=radical)](https://github.com/meinsoft)
 
 <!-- Ziyarətçi Sayacı -->
 ## Ziyarətçi Sayacı
