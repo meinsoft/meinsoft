@@ -10,7 +10,7 @@ I’m especially passionate about large-scale system design and low-level develo
 ## 🐍 Languages
 ![Python](https://img.shields.io/badge/-Python-1e293b?style=for-the-badge&logo=python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-C++-1e293b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ## ⚙️ Backend Frameworks
