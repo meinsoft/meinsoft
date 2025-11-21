@@ -1,39 +1,58 @@
-# 🧠 About Me
-I’m a backend-oriented developer from 🇦🇿 Azerbaijan.  
-I love researching modern technologies, observing trends in software architecture, and working on impactful real-world projects.  
-I’m especially passionate about large-scale system design and low-level development.
+# 👨‍💻 Backend Developer | System Architect
+
+Building scalable backend systems and exploring the intersection of software architecture, security, and AI.
+
+Currently focused on API design, distributed systems, and low-level programming concepts.
 
 ---
 
-# 💻 Tech Stack
+## 🔧 Core Technologies
 
-## 🐍 Languages
+**Languages**  
 ![Python](https://img.shields.io/badge/-Python-1e293b?style=for-the-badge&logo=python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-C++-1e293b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-
-## ⚙️ Backend Frameworks
-![Django](https://img.shields.io/badge/-Django-1e293b?style=for-the-badge&logo=django&logoColor=green)
+**Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=green)
-![Flask](https://img.shields.io/badge/-Flask-1e293b?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-1e293b?style=for-the-badge&logo=django&logoColor=green)
 ![DRF](https://img.shields.io/badge/-DRF-1e293b?style=for-the-badge&logo=django&logoColor=red)
 
-## 🧠 Compiler / Low-Level
-![LLVM](https://img.shields.io/badge/-LLVM-1e293b?style=for-the-badge&logo=llvm&logoColor=white)
-
-## 🗃️ Databases
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-1e293b?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🤖 Embedded & Robotics
-![ESP32](https://img.shields.io/badge/-ESP32-1e293b?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-1e293b?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-1e293b?style=for-the-badge&logo=raspberrypi&logoColor=red)
+**Systems & Tools**  
+![LLVM](https://img.shields.io/badge/-LLVM-1e293b?style=for-the-badge&logo=llvm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-1e293b?style=for-the-badge&logo=git&logoColor=orange)
 
 ---
 
-# 📈 GitHub Stats
+## 🚀 Featured Projects
+
+### [DevJourney](https://github.com/meinsoft) — Developer Learning Platform
+Backend infrastructure for collaborative learning platform with RESTful API design, JWT authentication, and optimized PostgreSQL queries.  
+`FastAPI` `PostgreSQL` `JWT`
+
+### [Thrive](https://github.com/Alimddar/Thrive) — AI-Powered Banking Simulation
+Full-stack fintech application with ML-driven personalization engine analyzing payment patterns for intelligent recommendations.  
+`FastAPI` `Google Gemini API` `React.js` `ML`
+
+---
+
+## 💡 Current Focus
+
+- Distributed system design and scalability patterns
+- API architecture and performance optimization
+- Security engineering and secure coding practices
+- Low-level programming with LLVM
+- AI/ML integration in production environments
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meinsoft&theme=radical&hide_border=false&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meinsoft&theme=radical&hide_border=false" />
@@ -45,5 +64,13 @@ I’m especially passionate about large-scale system design and low-level develo
 
 ---
 
-# 📬 Contact
-**meinsoftxx@gmail.com**
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/astralmein)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me5476793@gmail.com)
+
+---
+
+<p align="center">
+  <i>Open to collaborating on backend systems and security projects</i>
+</p>
