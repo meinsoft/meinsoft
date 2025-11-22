@@ -1,4 +1,4 @@
-# 👨‍💻 Backend Developer | System Architect
+# 👨‍💻 Backend Developer 
 
 Building scalable backend systems and exploring the intersection of software architecture, security, and AI.
 
