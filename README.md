@@ -33,7 +33,7 @@ Currently focused on API design, distributed systems, and low-level programming 
 
 ### [DevJourney](https://github.com/meinsoft) — Developer Learning Platform
 Backend infrastructure for collaborative learning platform with RESTful API design, JWT authentication, and optimized PostgreSQL queries.  
-`FastAPI` `PostgreSQL` `JWT`
+`Express.js` `PostgreSQL` `JWT`
 
 ### [Thrive](https://github.com/Alimddar/Thrive) — AI-Powered Banking Simulation
 Full-stack fintech application with ML-driven personalization engine analyzing payment patterns for intelligent recommendations.  
