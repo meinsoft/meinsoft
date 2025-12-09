@@ -19,6 +19,11 @@ Currently focused on API design, distributed systems, and low-level programming 
 ![Django](https://img.shields.io/badge/-Django-1e293b?style=for-the-badge&logo=django&logoColor=green)
 ![DRF](https://img.shields.io/badge/-DRF-1e293b?style=for-the-badge&logo=django&logoColor=red)
 
+
+**Hardware & IoT**  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-1e293b?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
+![ESP32](https://img.shields.io/badge/-ESP32-1e293b?style=for-the-badge&logo=espressif&logoColor=E7352C)
+
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-1e293b?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -26,6 +31,8 @@ Currently focused on API design, distributed systems, and low-level programming 
 **Systems & Tools**  
 ![LLVM](https://img.shields.io/badge/-LLVM-1e293b?style=for-the-badge&logo=llvm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1e293b?style=for-the-badge&logo=git&logoColor=orange)
+
+
 
 ---
 
