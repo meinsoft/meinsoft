@@ -1,82 +1,114 @@
-# 👨‍💻 Backend Developer 
+<h1 align="center">Hi, I'm Muhammedali Aliyev 👋</h1>
 
-Building scalable backend systems and exploring the intersection of software architecture, security, and AI.
+<p align="center">
+  <b>Backend Developer · Open Source Author · CTF Player</b><br/>
+  Building robust backend systems with Python & Django ecosystem
+</p>
 
-Currently focused on API design, distributed systems, and low-level programming concepts.
+<p align="center">
+  <a href="https://linkedin.com/in/astralmein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:me5476793@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/meinsoft"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🔧 Core Technologies
+## 🧑‍💻 About Me
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-1e293b?style=for-the-badge&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/-C++-1e293b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=yellow)
+- 🔭 Currently building **[Django Shield](https://github.com/meinsoft/django-shield)** — an open-source declarative permission library for Django
+- 🎯 Passionate about backend architecture, security, and clean API design
+- 🏆 CTF competitor — ranked **1st at CyberStar CTF 2023** and competed internationally at Nullcon HackIM 2026
+- 🚀 Hackathon finalist at **IDDA FinTech**, **Industry 4.0**, and **NASA Space Apps Challenge**
+- 🎓 Studying Logistics & Supply Chain at Azerbaijan Technical University
 
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=green)
-![Django](https://img.shields.io/badge/-Django-1e293b?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/-DRF-1e293b?style=for-the-badge&logo=django&logoColor=red)
+---
 
+## 🛠️ Tech Stack
 
-**Hardware & IoT**  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-1e293b?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
-![ESP32](https://img.shields.io/badge/-ESP32-1e293b?style=for-the-badge&logo=espressif&logoColor=E7352C)
+**Languages**
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-1e293b?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Systems & Tools**  
-![LLVM](https://img.shields.io/badge/-LLVM-1e293b?style=for-the-badge&logo=llvm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1e293b?style=for-the-badge&logo=git&logoColor=orange)
+**Frameworks & Libraries**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [DevJourney](https://github.com/meinsoft) — Developer Learning Platform
-Backend infrastructure for collaborative learning platform with RESTful API design, JWT authentication, and optimized PostgreSQL queries.  
-`Express.js` `PostgreSQL` `JWT`
+### 🔐 [Django Shield](https://github.com/meinsoft/django-shield)
+> Open-source declarative permission library for Django with object-level access control
 
-### [Thrive](https://github.com/Alimddar/Thrive) — AI-Powered Banking Simulation
-Full-stack fintech application with ML-driven personalization engine analyzing payment patterns for intelligent recommendations.  
-`FastAPI` `Google Gemini API` `React.js` `ML`
+- Built a **custom DSL parser** using SLY (Lex-Yacc) with full AST pipeline
+- Rule-once-protect-everywhere enforcement across views and models
+- **96% test coverage** across 217 automated tests via GitHub Actions CI/CD
 
----
-
-## 💡 Current Focus
-
-- Distributed system design and scalability patterns
-- API architecture and performance optimization
-- Security engineering and secure coding practices
-- Low-level programming with LLVM
-- AI/ML integration in production environments
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+### 🏦 [Thrive — AI Banking Loyalty Engine](https://github.com/meinsoft)
+> AI-powered personalization engine built at a FinTech hackathon (Finalist @ IDDA 1)
+
+- FastAPI backend integrated with **Google Gemini API** for generative recommendations
+- Analyzes payment history, location, and seasonality in real time
+- Full-stack with React.js frontend surfacing personalized offers
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meinsoft&theme=radical&hide_border=false&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meinsoft&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meinsoft&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meinsoft&theme=default&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinsoft&theme=radical&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinsoft&layout=compact&theme=default&hide_border=true" height="130" />
 </p>
 
 ---
 
-## 📫 Connect
+## 🏆 Achievements
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/astralmein)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me5476793@gmail.com)
+| 🥇 | CyberStar CTF League 2023 | **1st Place** among 100+ participants |
+|---|---|---|
+| 🌍 | Nullcon HackIM CTF 2026 | **51st Place** — international competition |
+| 💡 | IDDA 1 FinTech Hackathon 2025 | **Finalist** |
+| 🏭 | Industry 4.0 Hackathon 2025 | **Finalist** |
+| 🚀 | NASA Space Apps Challenge 2023 | **Regional Finalist** |
 
 ---
 
 <p align="center">
-  <i>Open to collaborating on backend systems and security projects</i>
+  <i>Open to backend roles, open-source collaboration, and interesting problems.</i><br/>
+  <a href="mailto:me5476793@gmail.com">me5476793@gmail.com</a> · <a href="https://linkedin.com/in/astralmein">LinkedIn</a>
 </p>
