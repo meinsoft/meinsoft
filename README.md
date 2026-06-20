@@ -1,115 +1,199 @@
-<h1 align="center">Hi, I'm Muhammedali Aliyev 👋</h1>
-
-<p align="center">
-  <b>Backend Developer · Open Source Author · CTF Player</b><br/>
-  Building robust backend systems with Python & Django ecosystem
+<div align="center">
+  <h1>⚔️ Muhammedali Aliyev</h1>
+  <h3>🛡️ Security Researcher &nbsp;·&nbsp; 🐍 Backend Developer &nbsp;·&nbsp; 🎯 CTF Player</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=meinsoft&label=Profile%20Views&color=f0db4f&style=flat-square" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/meinsoft?label=Followers&style=flat-square&color=f0db4f" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/meinsoft?label=Stars&style=flat-square&color=f0db4f" alt="Stars"/>
+  </p>
+</div>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
+<p>
+- <b>Name:</b> Muhammedali Aliyev.<br/>
+- <b>From:</b> Baku, Azerbaijan.<br/>
+- <b>Day job:</b> Security Researcher & Backend Developer.<br/>
+- <b>Currently:</b> studying <a href="https://aztu.edu.az">Logistics</a> at Azerbaijan Technical University.<br/>
+- <b>Also:</b> CVE Author, CTF Challenge Author.<br/>
+- <b>Off the clock:</b> breaking things for fun, competing in CTFs worldwide.
 </p>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/astralmein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:me5476793@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/meinsoft"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+🛠️ Technologies & Tools
 
----
+<div align="center">
 
-## 🧑‍💻 About Me
+⚙️ Backend & Databases
 
-- 🔭 Currently building **[Django Shield](https://github.com/meinsoft/django-shield)** — an open-source declarative permission library for Django
-- 🎯 Passionate about backend architecture, security, and clean API design
-- 🏆 CTF competitor — ranked **1st at CyberStar CTF 2023** and competed internationally at Nullcon HackIM 2026
-- 🚀 Hackathon finalist at **IDDA FinTech**, **Industry 4.0**, and **NASA Space Apps Challenge**
-- 🎓 Studying Logistics & Supply Chain at Azerbaijan Technical University
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,postgres,redis,sqlite" alt="Backend stack" />
 
----
+🔧 DevOps & Infra
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" alt="DevOps" />
 
-**Languages**
+🛡️ Security Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/CAIDO-1a1a2e?style=flat-square&logo=security&logoColor=f0db4f" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsible%20Disclosure-f0db4f?style=flat-square&logoColor=black" />
 
-**Frameworks & Libraries**
+🧰 Frameworks & Libraries
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-009688?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Jinja2-b41717?style=flat-square&logo=jinja&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</div>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
-**Databases**
+🔴 CVE & Security Research
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <b>CVE-2026-45430</b> &nbsp;
+      <img src="https://img.shields.io/badge/CVSS%207.1-HIGH-red?style=flat-square" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/OAuth%202.0-CSRF-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Missing <code>state</code> parameter validation in the Backdrop CMS Salesforce OAuth 2.0 authorization flow.
+      Callback endpoint was exposed to CSRF attacks enabling unauthorized account linkage and potential account takeover.
+      Conducted responsible disclosure to the Backdrop Security Team, provided a proof-of-concept, and collaborated on the patch shipped in <code>v1.x-1.0.1</code>.
+      <br/><br/>
+      <code>CVSS: AV:N/AC:H/PR:N/UI:R — C:H/I:H/A:L</code>
+      <br/><br/>
+      <a href="https://nvd.nist.gov/vuln/detail/cve-2026-45430">📋 NVD Entry</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/advisories/GHSA-v6gq-gxgm-g38r">🔗 GitHub Advisory</a>
+    </td>
+  </tr>
+</table>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
-**DevOps & Tools**
+<sup>📄 ctf writeups</sup>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- WRITEUPS_START -->
+<ul>
+  <li>▸ <a href="https://medium.com/@me5476793/teleleak-dawgctf-2026-writeup-b38e89f30899"><b><i>TeleLeak — DawgCTF 2026 — Web Writeup</i></b></a></li>
+  <li>▸ <a href="https://medium.com/@me5476793/dust-to-dust-reversing-a-custom-image-compressor-dawgctf-2026-4da4d91339da"><b><i>Dust to Dust — Reversing a Custom Image Compressor — DawgCTF 2026</i></b></a></li>
+  <li>▸ <a href="https://github.com/meinsoft/ctf-writeups/tree/main/bkctf-2026-writeups/web/BEaLegend"><b><i>BEaLegend — BKCTF 2026 — Web Writeup</i></b></a></li>
+  <li>▸ <a href="https://github.com/meinsoft/ctf-writeups/tree/main/bkctf-2026-writeups/web/MyFirstBlog"><b><i>MyFirstBlog — BKCTF 2026 — Web Writeup</i></b></a></li>
+  <li>▸ <a href="https://github.com/meinsoft/ctf-writeups/tree/main/bkctf-2026-writeups/web/TinySQL-1"><b><i>TinySQL-1 — BKCTF 2026 — Web Writeup</i></b></a></li>
+  <li>▸ <a href="https://github.com/meinsoft/ctf-writeups/tree/main/bkctf-2026-writeups/rev/supercool"><b><i>supercool — BKCTF 2026 — Reverse Engineering Writeup</i></b></a></li>
+</ul>
+<!-- WRITEUPS_END -->
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
----
+🚀 Featured Projects
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/meinsoft/django-shield">🛡️ django-shield</a></h4>
+      <p>Open-source declarative permission system for Django with object-level access control via a custom DSL. SLY (Lex/Yacc) based parser, full AST architecture, CI/CD pipeline — <b>217 tests @ 96% coverage</b>.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/meinsoft/blog-api-pure-django">📝 blog-api-pure-django</a></h4>
+      <p>A fully functional blog REST API built with pure Django — no DRF. Demonstrates low-level HTTP handling, manual serialization, and custom auth from scratch.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Void-Walkers-Community/Void-Bot">🤖 Void-Bot</a></h4>
+      <p>Feature-rich community bot for the Void Walkers community. Automation, moderation, and utility toolset.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <!-- open slot for future projects -->
+    </td>
+  </tr>
+</table>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
-### 🔐 [Django Shield](https://github.com/meinsoft/django-shield)
-> Open-source declarative permission library for Django with object-level access control
+🏆 Hackathons & Competitions
 
-- Built a **custom DSL parser** using SLY (Lex-Yacc) with full AST pipeline
-- Rule-once-protect-everywhere enforcement across views and models
-- **96% test coverage** across 217 automated tests via GitHub Actions CI/CD
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
 
-### 🏦 [Thrive — AI Banking Loyalty Engine](https://github.com/meinsoft)
-> AI-powered personalization engine built at a FinTech hackathon (Finalist @ IDDA 1)
+Result
+Event
+Date
 
-- FastAPI backend integrated with **Google Gemini API** for generative recommendations
-- Analyzes payment history, location, and seasonality in real time
-- Full-stack with React.js frontend surfacing personalized offers
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
 
-## 📊 GitHub Stats
+🥇 1st Place
+CyberStar CTF League — AKTA
+Apr. 2023
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meinsoft&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=meinsoft&theme=default&hide_border=true" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinsoft&layout=compact&theme=default&hide_border=true" height="130" />
-</p>
+🎖️ Organizer & Author
+AzTU CTF 2026 — 25 challenges across 6 categories
+May 2026
 
----
 
-## 🏆 Achievements
+🥉 3rd Place
+Farm2Tour Hackathon — Ministry of Agriculture
+May 2026
 
-| 🥇 | CyberStar CTF League 2023 | **1st Place** among 100+ participants |
-|---|---|---|
-| 🌍 | Nullcon HackIM CTF 2026 | **51st Place** — international competition |
-| 💡 | IDDA 1 FinTech Hackathon 2025 | **Finalist** |
-| 🏭 | Industry 4.0 Hackathon 2025 | **Finalist** |
-| 🚀 | NASA Space Apps Challenge 2023 | **Regional Finalist** |
 
----
+🎯 Finalist
+Cursor AI Hackathon — Backend & AI Integration
+Feb. 2026
 
-<p align="center">
-  <i>Open to backend roles, open-source collaboration, and interesting problems.</i><br/>
-  <a href="mailto:me5476793@gmail.com">me5476793@gmail.com</a> · <a href="https://linkedin.com/in/astralmein">LinkedIn</a>
-</p>
+
+🎯 Finalist
+Industry 4.0 Hackathon — C4IR Azerbaijan
+Dec. 2025
+
+
+🎯 Finalist
+IDDA 1 FinTech Hackathon — Tenity
+Nov. 2025
+
+
+
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
+
+📈 Commit Activity
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=meinsoft&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity"
+    alt="Commit activity graph"
+  />
+</div>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
+
+🌐 Contact & Socials
+
+<div align="center">
+  <a href="https://github.com/meinsoft" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/astralmein/" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" width="36" height="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/swordmein/" title="Instagram">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/instagram-new.png" width="36" height="36" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@me5476793" title="Medium">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/medium-logo.png" width="36" height="36" alt="Medium"/>
+  </a>
+</div>
+<br/>
